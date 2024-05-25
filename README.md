@@ -5,14 +5,9 @@ This repository contains prefabs, scripts, and UI elements for your Unity projec
 ## Provided Versions
 
 - `LoadOneModelFromHub-v2`: When you want to load one model (single agent environments like Huggy).
-- `LoadTwoModelsFromHub-v2`: When you want to load multiple models (multiple agents environments like SoccerTwos)
 
 ## How Does It Look? 👀
 
 ### LoadOneModelFromHub
 
 <img src="https://huggingface.co/datasets/huggingface-deep-rl-course/course-images/resolve/main/en/notebooks/unit-bonus1/load-huggy.jpg" alt="Huggy Example"/>
-
-
-
-### LoadTwoModelsFromHub
